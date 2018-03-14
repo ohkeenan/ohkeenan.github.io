@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #
 # This file contains configuration flags to customize your site
 #
@@ -41,7 +42,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-    url: https://ohkeenan.com
+    url: https://ohkeenan.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -84,3 +85,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+=======
+theme: jekyll-theme-tactile
+>>>>>>> 568dc19cc94f89b70ed5a04a5f10a0d55747d014
